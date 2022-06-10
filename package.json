@@ -14,12 +14,14 @@
     "styled-components": "^5.3.3",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://rtorresdefault.github.io/Portfolio-Site",
   "scripts": {
     "dev": "react-scripts dev",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
