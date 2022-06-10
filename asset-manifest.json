@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b6ef97c.chunk.css",
+    "main.js": "/static/js/main.9976ffdb.chunk.js",
+    "main.js.map": "/static/js/main.9976ffdb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ee3d93e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ee3d93e.js.map",
+    "static/js/2.33f99a80.chunk.js": "/static/js/2.33f99a80.chunk.js",
+    "static/js/2.33f99a80.chunk.js.map": "/static/js/2.33f99a80.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3b6ef97c.chunk.css.map": "/static/css/main.3b6ef97c.chunk.css.map",
+    "static/js/2.33f99a80.chunk.js.LICENSE.txt": "/static/js/2.33f99a80.chunk.js.LICENSE.txt",
+    "static/media/Background.c9f9a605.svg": "/static/media/Background.c9f9a605.svg",
+    "static/media/Background2.2363178d.svg": "/static/media/Background2.2363178d.svg",
+    "static/media/Background3.daa793b9.svg": "/static/media/Background3.daa793b9.svg",
+    "static/media/App.css": "/static/media/RFDewiCondensed-Thin.b4c0df0f.ttf",
+    "static/media/logo512.60f4fdf5.png": "/static/media/logo512.60f4fdf5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ee3d93e.js",
+    "static/js/2.33f99a80.chunk.js",
+    "static/css/main.3b6ef97c.chunk.css",
+    "static/js/main.9976ffdb.chunk.js"
+  ]
+}
